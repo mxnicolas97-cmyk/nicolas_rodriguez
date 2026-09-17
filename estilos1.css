@@ -1,0 +1,12 @@
+.columna1{
+    background: darkcyan;
+    padding: 1rem;
+    text-align: center;
+    border:2px solid white;
+}
+.columna2{
+    background: darkgoldenrod;
+    padding: 1rem;
+    text-align: center;
+    border:2px solid white;
+}
